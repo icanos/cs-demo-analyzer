@@ -4,7 +4,7 @@ go 1.23
 
 require (
 	github.com/golang/geo v0.0.0-20230421003525-6adc56603217
-	github.com/markus-wa/demoinfocs-golang/v4 v4.3.2
+	github.com/markus-wa/demoinfocs-golang/v4 v4.3.4-0.20250307001803-e62b9d156a7c
 	github.com/markus-wa/gobitread v0.2.4
 	github.com/pkg/errors v0.9.1
 	google.golang.org/protobuf v1.36.4
@@ -18,5 +18,3 @@ require (
 	github.com/markus-wa/quickhull-go/v2 v2.2.0 // indirect
 	github.com/oklog/ulid/v2 v2.1.0 // indirect
 )
-
-replace github.com/markus-wa/demoinfocs-golang/v4 v4.3.2 => github.com/markus-wa/demoinfocs-golang/v4 v4.3.4-0.20250307001803-e62b9d156a7c
