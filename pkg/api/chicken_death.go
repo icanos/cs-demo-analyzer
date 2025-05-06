@@ -1,7 +1,7 @@
 package api
 
 import (
-	"github.com/akiver/cs-demo-analyzer/pkg/api/constants"
+	"github.com/icanos/cs-demo-analyzer/pkg/api/constants"
 )
 
 type ChickenDeath struct {

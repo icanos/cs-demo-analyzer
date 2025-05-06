@@ -3,8 +3,8 @@ package assertion
 import (
 	"testing"
 
-	"github.com/akiver/cs-demo-analyzer/pkg/api"
-	"github.com/akiver/cs-demo-analyzer/tests/fake"
+	"github.com/icanos/cs-demo-analyzer/pkg/api"
+	"github.com/icanos/cs-demo-analyzer/tests/fake"
 )
 
 func AssertPlayers(t *testing.T, match *api.Match, players []fake.FakePlayer) {

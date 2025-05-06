@@ -3,7 +3,7 @@ package api
 import (
 	"encoding/json"
 
-	"github.com/akiver/cs-demo-analyzer/pkg/api/constants"
+	"github.com/icanos/cs-demo-analyzer/pkg/api/constants"
 	common "github.com/markus-wa/demoinfocs-golang/v4/pkg/demoinfocs/common"
 )
 

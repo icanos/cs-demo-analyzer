@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/akiver/cs-demo-analyzer/internal/slice"
-	"github.com/akiver/cs-demo-analyzer/pkg/api/constants"
+	"github.com/icanos/cs-demo-analyzer/internal/slice"
+	"github.com/icanos/cs-demo-analyzer/pkg/api/constants"
 )
 
 func FormatValidDemoSources() string {

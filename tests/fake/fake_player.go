@@ -1,6 +1,6 @@
 package fake
 
-import "github.com/akiver/cs-demo-analyzer/pkg/api"
+import "github.com/icanos/cs-demo-analyzer/pkg/api"
 
 type FakePlayer struct {
 	SteamID64     uint64

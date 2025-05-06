@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/akiver/cs-demo-analyzer/pkg/api"
-	"github.com/akiver/cs-demo-analyzer/pkg/api/constants"
+	"github.com/icanos/cs-demo-analyzer/pkg/api"
+	"github.com/icanos/cs-demo-analyzer/pkg/api/constants"
 )
 
 type cliArgs struct {

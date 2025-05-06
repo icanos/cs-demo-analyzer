@@ -3,7 +3,7 @@ package assertion
 import (
 	"testing"
 
-	"github.com/akiver/cs-demo-analyzer/pkg/api"
+	"github.com/icanos/cs-demo-analyzer/pkg/api"
 )
 
 func AssertPlayerEconomies(t *testing.T, match *api.Match, economies []api.PlayerEconomy) {

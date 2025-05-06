@@ -3,11 +3,11 @@ package tests
 import (
 	"testing"
 
-	"github.com/akiver/cs-demo-analyzer/pkg/api"
-	"github.com/akiver/cs-demo-analyzer/pkg/api/constants"
-	"github.com/akiver/cs-demo-analyzer/tests/assertion"
-	"github.com/akiver/cs-demo-analyzer/tests/fake"
-	"github.com/akiver/cs-demo-analyzer/tests/testsutils"
+	"github.com/icanos/cs-demo-analyzer/pkg/api"
+	"github.com/icanos/cs-demo-analyzer/pkg/api/constants"
+	"github.com/icanos/cs-demo-analyzer/tests/assertion"
+	"github.com/icanos/cs-demo-analyzer/tests/fake"
+	"github.com/icanos/cs-demo-analyzer/tests/testsutils"
 
 	"github.com/markus-wa/demoinfocs-golang/v4/pkg/demoinfocs/common"
 	"github.com/markus-wa/demoinfocs-golang/v4/pkg/demoinfocs/events"

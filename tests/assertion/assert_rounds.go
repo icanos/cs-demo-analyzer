@@ -3,9 +3,9 @@ package assertion
 import (
 	"testing"
 
-	"github.com/akiver/cs-demo-analyzer/internal/slice"
-	"github.com/akiver/cs-demo-analyzer/pkg/api"
-	"github.com/akiver/cs-demo-analyzer/tests/fake"
+	"github.com/icanos/cs-demo-analyzer/internal/slice"
+	"github.com/icanos/cs-demo-analyzer/pkg/api"
+	"github.com/icanos/cs-demo-analyzer/tests/fake"
 )
 
 func AssertRounds(t *testing.T, match *api.Match, rounds []fake.FakeRound) {

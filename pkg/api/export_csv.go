@@ -8,9 +8,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/akiver/cs-demo-analyzer/internal/converters"
-	"github.com/akiver/cs-demo-analyzer/internal/csv"
-	"github.com/akiver/cs-demo-analyzer/internal/slice"
+	"github.com/icanos/cs-demo-analyzer/internal/converters"
+	"github.com/icanos/cs-demo-analyzer/internal/csv"
+	"github.com/icanos/cs-demo-analyzer/internal/slice"
 	"github.com/markus-wa/demoinfocs-golang/v4/pkg/demoinfocs/common"
 )
 
