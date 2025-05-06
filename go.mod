@@ -1,4 +1,4 @@
-module github.com/akiver/cs-demo-analyzer
+module github.com/icanos/cs-demo-analyzer
 
 go 1.23
 
